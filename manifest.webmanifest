@@ -1,0 +1,25 @@
+{
+  "name": "Agenda Escolar",
+  "short_name": "Agenda",
+  "description": "Agenda escolar: asignaturas, tareas, exámenes, eventos, notas, calendario y horario de clases.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f5fa",
+  "theme_color": "#5b5bd6",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
